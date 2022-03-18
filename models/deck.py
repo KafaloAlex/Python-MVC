@@ -27,5 +27,5 @@ class Deck(list):
         except IndexError:
             return None
 
-deck = Deck()
+# deck = Deck()
 # print(deck)
